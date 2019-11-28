@@ -7,9 +7,7 @@ body {
     color: #5a5a5a
 }
 
-h1.navbar {
-    color:#CAA664
-}
+
 
 a {
     text-decoration: none;
@@ -19,3 +17,9 @@ a {
 a.ex1:hover, a.ex1:active {border-radius: 5px; background: #5a5a5a;}
 a.ex2:hover, a.ex2:active {border-radius: 5px; background: #5a5a5a;}
 a.ex3:hover, a.ex3:active {border-radius: 5px; background: #5a5a5a;}
+
+img.pic {
+    max-width: 100%;
+    height: auto;
+    margin: auto
+    }
