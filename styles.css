@@ -3,7 +3,8 @@ body {
   }
 
 .navbar {
-    text-align: center
+    text-align: center;
+    color: white
 }
 
 a {
