@@ -12,6 +12,6 @@ a {
     color: black;
     word-spacing: 30px;
    }
-a.ex1:hover, a.ex1:active {border-radius: 5px; background: #CDCDCD;}
-a.ex2:hover, a.ex2:active {border-radius: 5px; background: #CDCDCD;}
-a.ex3:hover, a.ex3:active {border-radius: 5px; background: #CDCDCD;}
+a.ex1:hover, a.ex1:active {border-radius: 5px; background: #c6c8c8;}
+a.ex2:hover, a.ex2:active {border-radius: 5px; background: #c6c8c8;}
+a.ex3:hover, a.ex3:active {border-radius: 5px; background: #c6c8c8;}
