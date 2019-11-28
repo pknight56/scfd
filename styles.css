@@ -1,3 +1,10 @@
 body {
     background-color: #393737;
   }
+
+.navbar {
+    background-color: black;
+    color: white;
+    margin: 20px;
+    padding: 20px;
+}
