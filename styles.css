@@ -6,3 +6,12 @@ body {
     background-color: #959595;
     color: white;
 }
+
+a {
+    text-decoration: none;
+    color: black;
+    word-spacing: 30px;
+   }
+a.ex1:hover, a.ex1:active {border-radius: 5px; background: #CDCDCD;}
+a.ex2:hover, a.ex2:active {border-radius: 5px; background: #CDCDCD;}
+a.ex3:hover, a.ex3:active {border-radius: 5px; background: #CDCDCD;}
