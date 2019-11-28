@@ -3,8 +3,6 @@ body {
   }
 
 .navbar {
-    background-color: black;
+    background-color: #959595;
     color: white;
-    margin: 20px;
-    padding: 20px;
 }
