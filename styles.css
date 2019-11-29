@@ -35,3 +35,8 @@ img.pic {
     text-align: center;
     color: white;
 }
+
+img.logo {
+    border-radius: 30 px
+
+}
