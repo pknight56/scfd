@@ -15,7 +15,6 @@ body {
 a {
     text-decoration: none;
     color:#CAA664;
-    word-spacing: 30px;
    }
 a.ex1:hover, a.ex1:active {border-radius: 1px; background: #5a5a5a;}
 a.ex2:hover, a.ex2:active {border-radius: 1px; background: #5a5a5a;}
